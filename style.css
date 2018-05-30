@@ -1,102 +1,102 @@
-/* CSS Document */
-#orrwc-Widget h1,#orrwc-Widget h2,#orrwc-Widget h3,#orrwc-Widget h4,#orrwc-Widget h5,#orrwc-Widget h6,.orrwc-ContentCardWidget h1,.orrwc-ContentCardWidget h2,.orrwc-ContentCardWidget h3,.orrwc-ContentCardWidget h4,.orrwc-ContentCardWidget h5,.orrwc-ContentCardWidget h6 {
-    font-weight: 700
+
+#orrwc-Widget h1, #orrwc-Widget h2, #orrwc-Widget h3,#orrwc-Widget h4,#orrwc-Widget h5,#orrwc-Widget h6,.orrwc-ContentCardWidget h1,.orrwc-ContentCardWidget h2,.orrwc-ContentCardWidget h3,.orrwc-ContentCardWidget h4,.orrwc-ContentCardWidget h5,.orrwc-ContentCardWidget h6 {
+    font-weight: 700;
 }
 
 #orrwc-Widget h1,.orrwc-ContentCardWidget h1 {
     font-size: 2em;
-    padding: .67em 0
+    padding: .67em 0;
 }
 
 #orrwc-Widget h2,.orrwc-ContentCardWidget h2 {
     font-size: 1.5em;
-    padding: .83em 0
+    padding: .83em 0;
 }
 
 #orrwc-Widget h3,.orrwc-ContentCardWidget h3 {
     font-size: 1.17em;
-    padding: .83em 0
+    padding: .83em 0;
 }
 
 #orrwc-Widget h4,.orrwc-ContentCardWidget h4 {
-    font-size: 1em
+    font-size: 1em;
 }
 
 #orrwc-Widget h5,.orrwc-ContentCardWidget h5 {
-    font-size: .83em
+    font-size: .83em;
 }
 
 #orrwc-Widget p,.orrwc-ContentCardWidget p {
-    margin: 1em 0
+    margin: 1em 0;
 }
 
 #orrwc-Widget table,.orrwc-ContentCardWidget table {
-    display: table
+    display: table;
 }
 
 #orrwc-Widget thead,.orrwc-ContentCardWidget thead {
-    display: table-header-group
+    display: table-header-group;
 }
 
 #orrwc-Widget tbody,.orrwc-ContentCardWidget tbody {
-    display: table-row-group
+    display: table-row-group;
 }
 
 #orrwc-Widget tfoot,.orrwc-ContentCardWidget tfoot {
-    display: table-footer-group
+    display: table-footer-group;
 }
 
 #orrwc-Widget tr,.orrwc-ContentCardWidget tr {
-    display: table-row
+    display: table-row;
 }
 
 #orrwc-Widget td,#orrwc-Widget th,.orrwc-ContentCardWidget td,.orrwc-ContentCardWidget th {
     display: table-cell;
-    padding: 2px
+    padding: 2px;
 }
 
 #orrwc-Widget ol,#orrwc-Widget ul,.orrwc-ContentCardWidget ol,.orrwc-ContentCardWidget ul {
-    margin: 1em 0
+    margin: 1em 0;
 }
 
 #orrwc-Widget ol li,#orrwc-Widget ol ol li,#orrwc-Widget ol ol ol li,#orrwc-Widget ol ol ul li,#orrwc-Widget ol ul ul li,#orrwc-Widget ul li,#orrwc-Widget ul ol ol li,#orrwc-Widget ul ul li,#orrwc-Widget ul ul ol li,#orrwc-Widget ul ul ul li,.orrwc-ContentCardWidget ol li,.orrwc-ContentCardWidget ol ol li,.orrwc-ContentCardWidget ol ol ol li,.orrwc-ContentCardWidget ol ol ul li,.orrwc-ContentCardWidget ol ul ul li,.orrwc-ContentCardWidget ul li,.orrwc-ContentCardWidget ul ol ol li,.orrwc-ContentCardWidget ul ul li,.orrwc-ContentCardWidget ul ul ol li,.orrwc-ContentCardWidget ul ul ul li {
     list-style-position: inside;
-    margin-top: .08em
+    margin-top: .08em;
 }
 
 #orrwc-Widget ol ol,#orrwc-Widget ol ol ol,#orrwc-Widget ol ol ul,#orrwc-Widget ol ul,#orrwc-Widget ol ul ul,#orrwc-Widget ul ol,#orrwc-Widget ul ol ol,#orrwc-Widget ul ul,#orrwc-Widget ul ul ol,#orrwc-Widget ul ul ul,.orrwc-ContentCardWidget ol ol,.orrwc-ContentCardWidget ol ol ol,.orrwc-ContentCardWidget ol ol ul,.orrwc-ContentCardWidget ol ul,.orrwc-ContentCardWidget ol ul ul,.orrwc-ContentCardWidget ul ol,.orrwc-ContentCardWidget ul ol ol,.orrwc-ContentCardWidget ul ul,.orrwc-ContentCardWidget ul ul ol,.orrwc-ContentCardWidget ul ul ul {
     padding-left: 40px;
-    margin: 0
+    margin: 0;
 }
 
 #orrwc-Widget nav ol,#orrwc-Widget nav ul,.orrwc-ContentCardWidget nav ol,.orrwc-ContentCardWidget nav ul {
-    list-style-type: none
+    list-style-type: none;
 }
 
 #orrwc-Widget menu,#orrwc-Widget ul,.orrwc-ContentCardWidget menu,.orrwc-ContentCardWidget ul {
-    list-style-type: disc
+    list-style-type: disc;
 }
 
 #orrwc-Widget ol,.orrwc-ContentCardWidget ol {
-    list-style-type: decimal
+    list-style-type: decimal;
 }
 
 #orrwc-Widget menu menu,#orrwc-Widget menu ul,#orrwc-Widget ol menu,#orrwc-Widget ol ul,#orrwc-Widget ul menu,#orrwc-Widget ul ul,.orrwc-ContentCardWidget menu menu,.orrwc-ContentCardWidget menu ul,.orrwc-ContentCardWidget ol menu,.orrwc-ContentCardWidget ol ul,.orrwc-ContentCardWidget ul menu,.orrwc-ContentCardWidget ul ul {
-    list-style-type: circle
+    list-style-type: circle;
 }
 
 #orrwc-Widget menu menu menu,#orrwc-Widget menu menu ul,#orrwc-Widget menu ol menu,#orrwc-Widget menu ol ul,#orrwc-Widget menu ul menu,#orrwc-Widget menu ul ul,#orrwc-Widget ol menu menu,#orrwc-Widget ol menu ul,#orrwc-Widget ol ol menu,#orrwc-Widget ol ol ul,#orrwc-Widget ol ul menu,#orrwc-Widget ol ul ul,#orrwc-Widget ul menu menu,#orrwc-Widget ul menu ul,#orrwc-Widget ul ol menu,#orrwc-Widget ul ol ul,#orrwc-Widget ul ul menu,#orrwc-Widget ul ul ul,.orrwc-ContentCardWidget menu menu menu,.orrwc-ContentCardWidget menu menu ul,.orrwc-ContentCardWidget menu ol menu,.orrwc-ContentCardWidget menu ol ul,.orrwc-ContentCardWidget menu ul menu,.orrwc-ContentCardWidget menu ul ul,.orrwc-ContentCardWidget ol menu menu,.orrwc-ContentCardWidget ol menu ul,.orrwc-ContentCardWidget ol ol menu,.orrwc-ContentCardWidget ol ol ul,.orrwc-ContentCardWidget ol ul menu,.orrwc-ContentCardWidget ol ul ul,.orrwc-ContentCardWidget ul menu menu,.orrwc-ContentCardWidget ul menu ul,.orrwc-ContentCardWidget ul ol menu,.orrwc-ContentCardWidget ul ol ul,.orrwc-ContentCardWidget ul ul menu,.orrwc-ContentCardWidget ul ul ul {
-    list-style-type: square
+    list-style-type: square;
 }
 
 #orrwc-Widget li,.orrwc-ContentCardWidget li {
     display: list-item;
     min-height: auto;
-    min-width: auto
+    min-width: auto;
 }
 
 #orrwc-Widget strong,.orrwc-ContentCardWidget strong {
-    font-weight: 700
+    font-weight: 700;
 }
 
 #orrwc-Widget em,.orrwc-ContentCardWidget em {
@@ -104,20 +104,20 @@
 }
 
 #orrwc-Widget code,#orrwc-Widget kbd,#orrwc-Widget pre,#orrwc-Widget samp,.orrwc-ContentCardWidget code,.orrwc-ContentCardWidget kbd,.orrwc-ContentCardWidget pre,.orrwc-ContentCardWidget samp {
-    font-family: monospace
+    font-family: monospace;
 }
 
 #orrwc-Widget a,.orrwc-ContentCardWidget a {
     color: #00f;
-    text-decoration: underline
+    text-decoration: underline;
 }
 
 #orrwc-Widget a:visited,.orrwc-ContentCardWidget a:visited {
-    color: #529
+    color: #529;
 }
 
 #orrwc-Widget a,#orrwc-Widget a *,#orrwc-Widget button,#orrwc-Widget input[type=button],#orrwc-Widget input[type=checkbox],#orrwc-Widget input[type=radio],#orrwc-Widget input[type=submit],#orrwc-Widget select,.orrwc-ContentCardWidget a,.orrwc-ContentCardWidget a *,.orrwc-ContentCardWidget button,.orrwc-ContentCardWidget input[type=button],.orrwc-ContentCardWidget input[type=checkbox],.orrwc-ContentCardWidget input[type=radio],.orrwc-ContentCardWidget input[type=submit],.orrwc-ContentCardWidget select {
-    cursor: pointer
+    cursor: pointer;
 }
 
 #orrwc-Widget button,#orrwc-Widget input[type=submit],.orrwc-ContentCardWidget button,.orrwc-ContentCardWidget input[type=submit] {
@@ -134,7 +134,7 @@
     background-color: #d3d3d3;
     background-color: #fff;
     background-color: linear-gradient(to bottom,#fff 0,#ddd 100%,#d1d1d1 100%,#ddd 100%);
-    outline: initial
+    outline: initial;
 }
 
 #orrwc-Widget button:active,#orrwc-Widget input[type=button]:active,#orrwc-Widget input[type=submit]:active,.orrwc-ContentCardWidget button:active,.orrwc-ContentCardWidget input[type=button]:active,.orrwc-ContentCardWidget input[type=submit]:active {
@@ -752,22 +752,22 @@
 }
 
 #orrwc-Widget select:focus,#orrwc-Widget select:hover {
-    background-image: linear-gradient(45deg,transparent 50%,#358dbe 50%),linear-gradient(135deg,#358dbe 50%,transparent 50%)
+    background-image: linear-gradient(45deg,transparent 50%,#358dbe 50%),linear-gradient(135deg,#358dbe 50%,transparent 50%);
 }
 
 #orrwc-Widget input:not([type=submit]):not([type=checkbox]):not([type=radio]),#orrwc-Widget select,#orrwc-Widget textarea {
     -webkit-appearance: none;
     -moz-appearance: none;
-    width: 100%
+    width: 100%;
 }
 
 #orrwc-Widget p {
     color: #999;
-    margin: 0
+    margin: 0;
 }
 
 #orrwc-Widget p+* {
-    margin-top: 5px
+    margin-top: 5px;
 }
 
 #orrwc-Widget .Message.Bot .ViewContent,#orrwc-Widget .buttonPrimary,#orrwc-Widget button,#orrwc-Widget input[type=button],#orrwc-Widget input[type=submit] {
@@ -784,7 +784,7 @@
     text-align: center;
     text-decoration: none;
     transition-property: background,color,border;
-    transition-duration: .2s
+    transition-duration: .2s;
 }
 
 #orrwc-Widget .Message.Bot .ViewContent:active,#orrwc-Widget .Message.Bot .ViewContent:hover,#orrwc-Widget .buttonPrimary:active,#orrwc-Widget .buttonPrimary:hover,#orrwc-Widget button:active,#orrwc-Widget button:hover,#orrwc-Widget input[type=button]:active,#orrwc-Widget input[type=button]:hover,#orrwc-Widget input[type=submit]:active,#orrwc-Widget input[type=submit]:hover {
